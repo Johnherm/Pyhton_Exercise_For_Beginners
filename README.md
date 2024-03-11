@@ -1,2 +1,2 @@
-# Pyhton_Exercise_For_Beginners
- This exercise is for beginners
+# Python_beginner_Exercise
+ This exercise is for beginner
